@@ -1,4 +1,6 @@
-﻿using ReservoomMVVM.Models;
+// From https://youtu.be/fZxZswmC_BY﻿
+
+using ReservoomMVVM.Models;
 using ReservoomMVVM.Exceptions;
 using System;
 using System.Collections.Generic;
